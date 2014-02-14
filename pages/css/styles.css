@@ -1,0 +1,64 @@
+body{
+	background: #b64926;
+}
+
+.top-bar{
+	background: #8e2800;
+}
+
+.accademic{
+	background: #ffb03b;
+	height: 500px;
+}
+
+.accademic h1 {
+	font-family: times;
+	text-align: center;
+	font-size: 40px;
+	color: #8e2800;
+	font-weight: bolder;
+}
+
+.accademic .button.round{
+	background: #8e2800;
+	color: #fff0a5;
+}
+
+.financial{
+	background: #8e2800;
+	height: 500px;
+}
+
+.financial h1 {
+	font-family: times;
+	text-align: center;
+	font-size: 40px;
+	color: #ffb03b;
+	font-weight: bolder;
+}
+
+.financial .button.round{
+	background: #fff0a5;
+	color: #b64926;
+}
+
+.comm {
+	height: 250px;
+	width: 50%;
+	background-color: #fff0a5;
+	border-radius: 20px;
+
+}
+
+.comm h1 {
+	font-family: times;
+	color: #b64926;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.comm .button.round{
+	background: #ffb03b;
+	color: #8e2800;
+}

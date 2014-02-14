@@ -1,0 +1,58 @@
+body{
+	background: #b64926;
+}
+
+.top-bar{
+	background: #8e2800;
+}
+
+.anounce{
+	background: #ffb03b;
+	height: 500px;
+}
+
+.anounce h1 {
+	font-family: times;
+	text-align: center;
+	font-size: 40px;
+	color: #8e2800;
+	font-weight: bolder;
+}
+
+.anounce p {
+	font-family: times;
+	text-align: center;
+	font-size: 25px;
+	color: #fff0a5;
+}
+
+.news {
+	height: 250px;
+	width: 50%;
+	background-color: #fff0a5;
+	border-radius: 20px;
+
+}
+
+.news h1 {
+	font-family: times;
+	color: #b64926;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.news ul li {
+	list-style: none;
+	color: white;
+}
+
+.thumbs ul {
+	margin-left: 205px;
+}
+
+.thumbs ul li {
+	list-style: none;
+	float: left;
+	padding: 15px;
+}
